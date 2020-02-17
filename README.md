@@ -5,4 +5,4 @@ On the Second phase, from ER Model create a Dimensional Model , use Dimensional 
 
 
 #### Data Source: US Census Data
-#### Platform: MYSQL Workbench
+#### Platform: MYSQL Workbench, LucidChart
