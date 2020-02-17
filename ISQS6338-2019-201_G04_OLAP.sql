@@ -1,6 +1,6 @@
 /***********************************************************************************************
  ***********************************************************************************************
-  Author:	Dinesh Poudel, Anurag Sharma, Khaza Towfik Akbar & Luciano Vecchio
+  Author:	Dinesh Poudel
   Date:		08-09-2019
   Title:	Statement examples for creating and populating the OLTP database for the ISQS 6338 Final
 			Course Project (FCP).
